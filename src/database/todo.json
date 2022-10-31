@@ -1,0 +1,16 @@
+[
+    {
+        "userID": 1,
+        "username": "Latib",
+        "password": "33793f8dd7cf6c23fef96a485bca4379840992e55fb4a6a0d9137a48376a0a1d",
+        "birthdate": "1998-02-28",
+        "gender": 1
+    },
+    {
+        "userID": 2,
+        "username": "Madina",
+        "password": "36d5ee954f8c3a2c09d9c4feb2503fa7db60ecce384a8f325de0e023fe163ad3",
+        "birthdate": "1998-02-28",
+        "gender": 2
+    }
+]
